@@ -15,7 +15,7 @@ return(
 export default CardWrapper
 
 const Wrapper = styled.div`
-width: 85%;
+max-width: 85%;
 display: flex;
 flex-direction: wrap;
 background-color: dodgerblue;
